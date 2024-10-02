@@ -75,7 +75,7 @@ export default function Home() {
           <div className="container mx-auto px-4 text-center">
             <h2 className="text-4xl font-bold mb-8 text-gray-800">Ready to Elevate Your Care Services?</h2>
             <Link href="/contact" className="bg-gradient-to-r from-blue-500 to-indigo-600 text-white font-bold py-3 px-8 rounded-full transition duration-300 transform hover:scale-105 inline-flex items-center">
-              Get Started Now
+              Get Started Now!
               <ChevronRightIcon className="h-5 w-5 ml-2" />
             </Link>
           </div>
